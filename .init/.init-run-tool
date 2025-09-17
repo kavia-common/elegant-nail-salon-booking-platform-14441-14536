@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/elegant-nail-salon-booking-platform-14441-14536/nail_salon_frontend"
+}
